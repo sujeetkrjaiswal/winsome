@@ -1,0 +1,32 @@
+{
+  "name": "@winsome/scss",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Sujeet Jaiswal <sujeet.jaiswal@vistaprint.com>",
+  "homepage": "https://github.com/sujeetkrjaiswal/winsome#readme",
+  "license": "ISC",
+  "main": "src/index.scss",
+  "unpkg": "css/index.css",
+  "style": "css/index.min.css",
+  "directories": {
+    "src": "src",
+    "css": "css"
+  },
+  "files": [
+    "src",
+    "css"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujeetkrjaiswal/winsome.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sujeetkrjaiswal/winsome/issues"
+  }
+}

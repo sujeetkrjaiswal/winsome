@@ -1,0 +1,33 @@
+{
+  "name": "@winsome/prettier-config",
+  "version": "1.0.0",
+  "description": "Opinionated Sharable Prettier Config",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Sujeet Jaiswal <sujeet.jaiswal@vistaprint.com>",
+  "homepage": "https://github.com/sujeetkrjaiswal/winsome#readme",
+  "license": "ISC",
+  "main": "index.json",
+  "directories": {},
+  "files": [
+    "index.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujeetkrjaiswal/winsome.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sujeetkrjaiswal/winsome/issues"
+  },
+  "peerDependencies": {
+    "prettier": ">=2.2.1"
+  }
+}
